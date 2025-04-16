@@ -9,6 +9,7 @@
 #btn{
   width:35px;
   margin-right: 5px;
+  cursor:pointer
 }
 body{
   text-align:justify;
