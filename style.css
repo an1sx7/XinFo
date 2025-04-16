@@ -68,10 +68,7 @@ h1{
   #search,select{
     width:90%;
   }
-  #dv img{
-    width:100%;
-  }
   #dv p{
-    font-size:30px;
+    font-size:20px;
   }
 }
